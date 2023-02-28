@@ -1,0 +1,58 @@
+:root{
+    overflow: scroll;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+  }
+
+section{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1500px;
+}
+
+
+  .card {
+    width: 300px;
+    height: 500px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 36px;
+    perspective: 2500px;
+    margin: 0 40px;
+    background-color: goldenrod;
+    border-radius: 3%;
+    font-size: 3vh;
+    font-weight: bolder;
+  }
+  
+  .photo{
+   border-radius: 3%;
+  }
+
+  .button{
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+  }
+  
+.logo{
+    width: 500px;
+}
+
+  
+
+  
