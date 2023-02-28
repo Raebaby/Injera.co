@@ -4,6 +4,13 @@ import Food from './Components/Food'
 import Coffee from './Components/Coffee'
 import Clothes from './Components/Clothes'
 import Logo from './Components/Logo.png'
+import Religion from './Components/Religon'
+import Wildlife from './Components/Wildlife'
+import People from './Components/People';
+import Histor from "./Components/History";
+import Land from './Components/Land';
+import Gold from './Components/Gold';
+import Sea from './Components/Sea';
 
 
 
@@ -20,8 +27,19 @@ const App = () => {
       <div>
         <section>
           <Food label='Injera'/>
-          <Coffee label="Buna"/> 
           <Clothes label="Clothes"/>
+          
+          <Religion/>
+          
+          <Wildlife/>
+          
+          <Sea label="Massawa"/>
+           <Coffee label="Buna"/>
+          <People/>
+          <Histor/>
+          <Land label="Land"/>
+          <Gold/>
+          
         </section>
         <br/>
         <br/>
