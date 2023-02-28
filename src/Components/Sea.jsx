@@ -7,7 +7,9 @@ const Sea = (props) => {
         <div className="card">
             <h3>{props.label}</h3>
             <img className="photo"src={sea} height={300} width={300}/>
-            <button className="button" onClick={"https://www.google.com/"}> Visit</button>
+            <a href="https://en.wikivoyage.org/wiki/Massawa">
+            <button className="button"> Red Sea</button>
+            </a>
         </div>
         </>
     )

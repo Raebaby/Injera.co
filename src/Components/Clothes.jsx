@@ -7,7 +7,9 @@ const Clothes = (props) => {
         <div className="card">
             <h3>{props.label}</h3>
             <img className="photo" src={Zuria} width={300} height={300}/>
-            <button className="button" onClick={"https://www.google.com/"}> Visit</button>
+            <a href="https://www.etsy.com/market/ethiopian_kemis">
+            <button className="button">Stores</button>
+            </a>
         </div>            
         </>
     )

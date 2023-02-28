@@ -28,16 +28,13 @@ const App = () => {
         <section>
           <Food label='Injera'/>
           <Clothes label="Clothes"/>
-          
           <Religion/>
-          
           <Wildlife/>
-          
           <Sea label="Massawa"/>
-           <Coffee label="Buna"/>
+          <Coffee label="Buna"/>
           <People/>
           <Histor/>
-          <Land label="Land"/>
+          <Land label="Travel"/>
           <Gold/>
           
         </section>

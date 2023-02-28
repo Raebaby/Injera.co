@@ -7,7 +7,9 @@ const Food = (props) => {
         <div className="card">
             <h3>{props.label}</h3>
             <img className="photo"src={injera} height={300} width={300}/>
-            <button className="button" onClick={"https://www.google.com/"}> Visit</button>
+            <a href="https://blog.yelp.com/community/top-100-ethiopian-restaurants-in-the-u-s-according-to-yelp/">
+            <button className="button">Restaurants</button>
+            </a>
         </div>
         </>
     )

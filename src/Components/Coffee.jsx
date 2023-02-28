@@ -7,8 +7,9 @@ const Coffee = (props) => {
         <div className="card">
             <h3>{props.label}</h3>
             <img className="photo" src={coffee} height={300}/>
-            <button className="button" onClick={"https://www.google.com/"}> Visit</button>
-        
+            <a href="https://www.youtube.com/watch?v=t4zgoR_8UJY">
+            <button className="button">Coffee Ceremony</button> 
+            </a>
         </div>
         </>
     )
