@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *The Injera Co.*
 
-Submitted by: **Your Name Here**
+Submitted by: **Rehabot Eyassu**
 
-This web app: **insert description**
+This web app: **Explore East African cultutre using our Injera Co. website. Learn about the exquisite culture and fall in love with the people of Eritrea an Ethiopia.**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
